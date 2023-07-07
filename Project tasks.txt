@@ -1,0 +1,4 @@
+1- Build core components
+2- Manage State
+3- Output Users Conditionally 
+& show Error Modal
